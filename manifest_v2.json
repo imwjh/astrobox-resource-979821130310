@@ -1,0 +1,38 @@
+{
+  "item": {
+    "id": "979821130310",
+    "restype": "watchface",
+    "name": "吊牌",
+    "description": "吊牌把时间做成一枚挂在指针上的铭牌。两根三倍粗的白针不是刻度，而是载体：时针一百零二像素宽，分针六十三像素宽；数字重描边加粗后嵌进针身，外缘距针尖十二点七像素，并随字宽逐对微调。指针倒转时，数字自动翻面，始终从针尖向外阅读。黑与白之间没有多余颜色，只剩形状与字重的角力；中心轴压住两根白针的根部，像把整枚吊牌钉在表盘上。没有刻度，也没有装饰，只有两个时间单位在彼此压覆。我们想让时间被挂在针尖上，粗、大，但一眼可读。\n\n今日起至 11 月 26 号享八折 - 2.39 元",
+    "preview": [
+      "media/03-吊牌-1440x2160.png",
+      "media/03-吊牌-AOD-1440x2160.png",
+      "media/03-吊牌-理念-1440x2160.png"
+    ],
+    "icon": "media/preview-256.png",
+    "cover": "media/03-吊牌-2160x1440.png",
+    "author": [
+      {
+        "name": "seegood",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [
+    {
+      "title": "联系我",
+      "url": "https://imwjh.com/contact",
+      "icon": "envelope-open"
+    }
+  ],
+  "downloads": {
+    "xmrw6": {
+      "version": "0.0.0",
+      "file_name": "downloads/22-03-吊牌-10-26-03-14.bin",
+      "versionCode": 0
+    }
+  },
+  "ext": {
+    "enableAstroBoxCreatorFeatures": true
+  }
+}
